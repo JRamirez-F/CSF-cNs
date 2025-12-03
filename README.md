@@ -1,10 +1,16 @@
 ### CSF-cNs (Post Doctoral)
 
+<p align="justify">
 Cerebrospinal fluid (CSF) is increasingly recognized as a dynamic signaling milieu rather than a passive liquid surrounding the brain and spinal cord. It carries ions, peptides, metabolites, and mechanical cues that reflect ongoing physiological states such as posture, breathing, locomotion, and circadian rhythms. Neurons capable of directly sampling this information are ideally positioned to influence motor and autonomic functions. Among them, Cerebrospinal Fluid-contacting Neurons (CSF-cNs) represent one of the most intriguing and evolutionarily conserved sensory populations in the central nervous system.
+</p>
 
+<p align="justify">
 CSF-cNs line the central canal of the spinal cord, extending a specialized dendritic “bulb” capped with motile cilia into the CSF. This unique morphology allows them to detect chemical signals (pH, osmolarity, neurotransmitters), mechanical forces, and flow dynamics. Their molecular sensory machinery is built upon ion channels such as PKD2L1 and ASIC family members, enabling them to transform environmental changes within the CSF into neuronal activity. Although present across vertebrates, their roles appear adapted to species-specific demands: in zebrafish, they rapidly modulate tail-beat frequency and locomotor reflexes, whereas in mammals they control skilled locomotion and they might integrate autonomic or interoceptive circuits.
+</p>
 
+<p align="justify">
 CSF-cNs occupy a strategic position within spinal circuits. They form inhibitory synapses onto premotor interneurons and α-motoneurons, providing a direct route to shaping locomotor output. At the same time, their projections toward sympathetic preganglionic neurons suggest a broader role in adjusting autonomic tone, linking CSF physiology to cardiovascular, respiratory, and metabolic states. Despite their potential importance, their full connectivity, neurotransmitter repertoire, and context-dependent functions remain only partially understood.
+</p>
 
 To investigates how CSF-cNs sense the internal environment and convert this information into coordinated motor and autonomic responses. Nicolas Wanaverbecq lab integrates electrophysiology, optogenetic/chemogenetic manipulation, single-cell profiling, connectomics, and behavioral assays to reveal important aspects of cSF-cNs physiology:
 
