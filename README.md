@@ -18,7 +18,6 @@ CSF-cNs line the central canal of the spinal cord, extending a specialized dendr
 <b>Figure 1- The system of spinal CSF-cNs. Top, spinal CSF-cNs in the rabbit spinal cord as depicted by Agduhr in 1922 (left). CSF-cNs in the turtle showing the protrusion (arrows) towards the CC (middle). Mouse CSF-cNs around the CC (dashed line) showing the selective expression of PKD2L1 (green) along with the dendritic marker MAP2 (magenta) in the extension contacting the CSF (arrows). Bottom, the system of mouse CSF-cNs (green) under a light-sheet microscope showing its rostro- caudal distribution from the caudal rhombencephalon to lumbo-sacral spinal cord. Scale bar = 2mm. Top: Adapted from (REFS)
 </sub>
 </p>
-<br>
 
 <p align="justify">
 CSF-cNs occupy a strategic position within spinal circuits. They form inhibitory synapses onto premotor interneurons and α-motoneurons, providing a direct route to shaping locomotor output. At the same time, their projections toward sympathetic preganglionic neurons suggest a broader role in adjusting autonomic tone, linking CSF physiology to cardiovascular, respiratory, and metabolic states. Despite their potential importance, their full connectivity, neurotransmitter repertoire, and context-dependent functions remain only partially understood.
