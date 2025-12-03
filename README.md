@@ -15,7 +15,8 @@ CSF-cNs line the central canal of the spinal cord, extending a specialized dendr
 </p>
 <p align="justify" style="font-size:small;">
 <sub>
-<b>Figure 1- The system of spinal CSF-cNs. Top, spinal CSF-cNs in the rabbit spinal cord as depicted by Agduhr in 1922 (left). CSF-cNs in the turtle showing the protrusion (arrows) towards the CC (middle). Mouse CSF-cNs around the CC (dashed line) showing the selective expression of PKD2L1 (green) along with the dendritic marker MAP2 (magenta) in the extension contacting the CSF (arrows). Bottom, the system of mouse CSF-cNs (green) under a light-sheet microscope showing its rostro- caudal distribution from the caudal rhombencephalon to lumbo-sacral spinal cord. Scale bar = 2mm. Top: Adapted from (REFS)
+<b>Figure 1- The system of spinal CSF-cNs. Top, spinal CSF-cNs in the rabbit spinal cord as depicted by Agduhr in 1922 (left). CSF-cNs in the turtle showing the protrusion (arrows) towards the CC (middle). Mouse CSF-cNs around the CC (dashed line) showing the selective expression of PKD2L1 (green) along with the dendritic marker MAP2 (magenta) in the extension contacting the CSF (arrows). Bottom, the system of mouse CSF-cNs (green) under a light-sheet microscope showing its rostro- caudal distribution from the caudal rhombencephalon to lumbo-sacral spinal cord. Scale bar = 2mm. Top: Adapted from (REFS).
+</b>  
 </sub>
 </p>
 
