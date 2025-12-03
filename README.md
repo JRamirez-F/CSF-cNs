@@ -8,7 +8,6 @@ Cerebrospinal fluid (CSF) is increasingly recognized as a dynamic signaling mili
 CSF-cNs line the central canal of the spinal cord, extending a specialized dendritic “bulb” capped with motile cilia into the CSF. This unique morphology allows them to detect chemical signals (pH, osmolarity, neurotransmitters), mechanical forces, and flow dynamics. Their molecular sensory machinery is built upon ion channels such as PKD2L1 and ASIC family members, enabling them to transform environmental changes within the CSF into neuronal activity. Although present across vertebrates, their roles appear adapted to species-specific demands: in zebrafish, they rapidly modulate tail-beat frequency and locomotor reflexes, whereas in mammals they control skilled locomotion and they might integrate autonomic or interoceptive circuits.
 </p>
 
-Images_CSF_cNs/fig1_CSF-cNs.png
 </p>
 <br>
 <p align="center">
